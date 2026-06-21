@@ -1,0 +1,6 @@
+mlruns/
+.ipynb_checkpoints/
+mlflow.db
+
+cleaned_retail.csv
+online_retail_II(kaggle).xlsx
