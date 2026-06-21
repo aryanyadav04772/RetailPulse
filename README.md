@@ -352,6 +352,39 @@ RetailPulse successfully demonstrates a complete machine learning lifecycle from
 The project combines Data Science, MLOps, DevOps, and Cloud-Native technologies into a single production-style retail analytics solution.
 
 ---
+## Screenshots
+
+### RetailPulse Dashboard
+
+![RetailPulse Dashboard](screenshots/RetailPulse-App.png)
+
+### Demand Forecasting Module
+
+![Demand Forecasting](screenshots/RetailPulse-Demand_Forecasting.png)
+
+### MLflow Metrics (Graphical)
+
+![MLflow Graphical](screenshots/ML-flow\(graphical\).png)
+
+### MLflow Metrics (Statistical)
+
+![MLflow Statistical](screenshots/ML-flow\(statistical\).png)
+
+### Confusion Matrix
+
+![Confusion Matrix](screenshots/confusion_matrix.png)
+
+### GitHub Actions CI/CD
+
+![GitHub Actions](screenshots/github-commit-validation.png)
+
+### Prometheus Monitoring
+
+![Prometheus](screenshots/Promethus.png)
+
+### Grafana Dashboard
+
+![Grafana](screenshots/Grafana_local_host-3000.png)
 
 ## Author
 
